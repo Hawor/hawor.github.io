@@ -1,0 +1,40 @@
+
+<svg width="405px" height="112px" viewBox="0 0 405 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="输入框交互规范9" transform="translate(-565.000000, -496.000000)">
+            <g id="Group-Copy-5" transform="translate(565.000000, 496.000000)">
+                <rect id="矩形" fill="#F4F6F8" fill-rule="nonzero" x="0" y="0" width="405" height="112"></rect>
+                <text id="错误状态（状态提示参照报错提示）" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" line-spacing="30" fill="#333333">
+                    <tspan x="59" y="27">错误状态（状态提示参照报错提示）</tspan>
+                </text>
+                <rect id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" x="15" y="46" width="375" height="51"></rect>
+                <text id="交易密码" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#333333">
+                    <tspan x="30" y="77">交易密码</tspan>
+                </text>
+                <g id="密码点点" transform="translate(111.000000, 69.000000)" fill="#FF4D29">
+                    <g id="Oval-4">
+                        <circle cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g transform="translate(11.000000, 0.000000)" id="Oval-4">
+                        <circle cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g transform="translate(22.000000, 0.000000)" id="Oval-4">
+                        <circle cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g transform="translate(33.000000, 0.000000)" id="Oval-4">
+                        <circle cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g transform="translate(44.000000, 0.000000)" id="Oval-4">
+                        <circle cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g transform="translate(55.000000, 0.000000)" id="Oval-4">
+                        <circle cx="3" cy="3" r="3"></circle>
+                    </g>
+                </g>
+                <text id="忘记密码" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#4586FF">
+                    <tspan x="315" y="77">忘记密码</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

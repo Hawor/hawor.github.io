@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+BODY {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #000;
+    background-color: #FFF;
+}
+
+iframe {
+	display: block;
+}
+
+a:link, a:hover, a:visited, a:active {
+	text-decoration: none !important;
+	color: #669933 !important;
+}
+
+a:hover {
+	text-decoration: underline !important;
+}
+
+.translators a {
+    font-size: 10px;	
+}
+
+.translators a:link, .translators a:hover, .translators a:visited, .translators a:active {
+    font-size: 9px;	
+}
+
+.title {
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.cat {
+    font-weight: bold;
+    color: #75483E;
+}
+
+.app {
+    font-weight: bold;
+}
+
+.thanks {
+    font-weight: bold;
+    color: #669933;
+    text-align: center;
+}
+
+.license, .warranty {
+    font-size: 9px;
+    color: #666;
+    text-align: justify;
+}
+
+.emoji {
+    font-size: 8px;
+}
+           

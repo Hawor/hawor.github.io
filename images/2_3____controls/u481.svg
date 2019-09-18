@@ -1,0 +1,18 @@
+
+<svg width="405px" height="112px" viewBox="0 0 405 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="输入框交互规范5" transform="translate(-563.000000, -516.000000)">
+            <rect id="矩形" fill="#F4F6F8" fill-rule="nonzero" x="563" y="516" width="405" height="112"></rect>
+            <text id="选填输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" line-spacing="30" fill="#333333">
+                <tspan x="721" y="543">选填输入框</tspan>
+            </text>
+            <rect id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" x="578" y="562" width="375" height="51"></rect>
+            <text id="姓名" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#333333">
+                <tspan x="593" y="593">姓名</tspan>
+            </text>
+            <text id="（选填）请输入姓名" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#CCCCCC">
+                <tspan x="644" y="593">（选填）请输入姓名</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

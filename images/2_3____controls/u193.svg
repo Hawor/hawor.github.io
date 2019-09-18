@@ -1,0 +1,34 @@
+
+<svg width="880px" height="130px" viewBox="0 0 880 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="输入框交互规范2" transform="translate(-88.000000, -272.000000)">
+            <text id="名称最长5个汉字（标题与输入区域间距为字" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400" line-spacing="32" fill="#4586FF">
+                <tspan x="102" y="292">名称最长5个汉字</tspan>
+                <tspan x="285.192" y="292" font-size="13">（标题与输入区域间距为字号1.4倍）</tspan>
+            </text>
+            <g id="Group" transform="translate(88.000000, 321.000000)">
+                <rect id="矩形" fill="#F4F6F8" fill-rule="nonzero" x="0" y="0" width="405" height="81"></rect>
+                <rect id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" x="15" y="15" width="375" height="51"></rect>
+                <text id="账单发送至" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#333333">
+                    <tspan x="30" y="46">账单发送至</tspan>
+                </text>
+                <text id="请输入邮箱" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#CCCCCC">
+                    <tspan x="126" y="46">请输入邮箱</tspan>
+                </text>
+            </g>
+            <text id="输入框空值不报错" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400" line-spacing="32" fill="#4586FF">
+                <tspan x="577" y="292">输入框空值不报错</tspan>
+            </text>
+            <g id="Group" transform="translate(563.000000, 321.000000)">
+                <rect id="矩形" fill="#F4F6F8" fill-rule="nonzero" x="0" y="0" width="405" height="81"></rect>
+                <rect id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" x="15" y="15" width="375" height="51"></rect>
+                <text id="账单发送至" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#333333">
+                    <tspan x="30" y="46">账单发送至</tspan>
+                </text>
+                <text id="请输入邮箱" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#CCCCCC">
+                    <tspan x="126" y="46">请输入邮箱</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

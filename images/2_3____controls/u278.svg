@@ -1,0 +1,38 @@
+
+<svg width="405px" height="178px" viewBox="0 0 405 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="输入框交互规范10" transform="translate(-573.000000, -140.000000)">
+            <g id="分组-3-copy-6" transform="translate(573.000000, 140.000000)">
+                <g id="Group-Copy">
+                    <rect id="矩形" fill="#F4F6F8" fill-rule="nonzero" x="0" y="0" width="405" height="178"></rect>
+                    <text id="输入完整" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" line-spacing="30" fill="#333333">
+                        <tspan x="167" y="27">输入完整</tspan>
+                    </text>
+                </g>
+                <g id="分组-2" transform="translate(15.000000, 46.000000)">
+                    <rect id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="375" height="117"></rect>
+                    <text id="请设置买单吧账户支付密码，用于支付验证" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#333333">
+                        <tspan x="36" y="32">请设置买单吧账户支付密码，用于支付验证</tspan>
+                    </text>
+                    <g id="密码" transform="translate(15.000000, 47.000000)">
+                        <rect id="Rectangle-2" stroke="#E8E8E8" x="0.5" y="0.5" width="344" height="54" rx="7"></rect>
+                        <rect id="Rectangle-4" fill="#E8E8E8" x="57" y="1" width="1" height="53"></rect>
+                        <rect id="Rectangle-4" fill="#E8E8E8" x="114.5" y="0.910924093" width="1" height="53.1781518"></rect>
+                        <rect id="Rectangle-4" fill="#E8E8E8" x="172" y="1" width="1" height="53"></rect>
+                        <rect id="Rectangle-4" fill="#E8E8E8" x="229.5" y="0.910924093" width="1" height="53.1781518"></rect>
+                        <rect id="Rectangle-4" fill="#E8E8E8" x="287" y="1" width="1" height="53"></rect>
+                        <g id="Group" transform="translate(24.000000, 23.000000)" fill="#222222">
+                            <circle id="Oval" cx="4.5" cy="4.5" r="4.5"></circle>
+                        </g>
+                        <circle id="Oval" fill="#222222" cx="86.5" cy="27.5" r="4.5"></circle>
+                        <circle id="Oval" fill="#222222" cx="144.5" cy="27.5" r="4.5"></circle>
+                        <circle id="Oval" fill="#222222" cx="201.5" cy="27.5" r="4.5"></circle>
+                        <circle id="Oval" fill="#222222" cx="259.5" cy="27.5" r="4.5"></circle>
+                        <circle id="Oval" fill="#222222" cx="316.5" cy="27.5" r="4.5"></circle>
+                        <g id="Group" transform="translate(24.000000, 23.000000)"></g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

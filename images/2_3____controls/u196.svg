@@ -1,0 +1,72 @@
+
+<svg width="880px" height="391px" viewBox="0 0 880 391" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="输入框交互规范3" transform="translate(-88.000000, -160.000000)">
+            <text id="输入框-“清空”操作" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400" line-spacing="32" fill="#4586FF">
+                <tspan x="102" y="181">输入框-“清空”操作</tspan>
+            </text>
+            <g id="Group-Copy" transform="translate(563.000000, 214.000000)">
+                <rect id="矩形" fill="#F4F6F8" fill-rule="nonzero" x="0" y="0" width="405" height="112"></rect>
+                <text id="点击清空后" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" line-spacing="30" fill="#333333">
+                    <tspan x="158" y="27">点击清空后</tspan>
+                </text>
+                <rect id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" x="15" y="46" width="375" height="51"></rect>
+                <rect id="矩形" fill="#4586FF" fill-rule="nonzero" x="124" y="62" width="2" height="20" rx="1"></rect>
+                <text id="账单发送至" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#333333">
+                    <tspan x="30" y="77">账单发送至</tspan>
+                </text>
+                <text id="请输入邮箱" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#CCCCCC">
+                    <tspan x="126" y="77">请输入邮箱</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" transform="translate(88.000000, 214.000000)">
+                <rect id="矩形" fill="#F4F6F8" fill-rule="nonzero" x="0" y="0" width="405" height="112"></rect>
+                <text id="输入中状态" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" line-spacing="30" fill="#333333">
+                    <tspan x="158" y="27">输入中状态</tspan>
+                </text>
+                <g id="分组-2" transform="translate(15.000000, 46.000000)">
+                    <rect id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="375" height="51"></rect>
+                    <text id="6316" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#222222">
+                        <tspan x="111" y="31">6316</tspan>
+                    </text>
+                    <rect id="矩形-copy" fill="#4586FF" fill-rule="nonzero" x="145" y="16" width="2" height="20" rx="1"></rect>
+                    <image id="清除" x="339" y="15" width="21" height="21" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABGdBTUEAALGOfPtRkwAAA0lJREFUWAnNmUtPE1EYhgvRLtSVugJ0oymyBn4A6NJo3GhQlybe0J/gQv0JGi8hrhR0ZWJiXCl7gb1U3WiRJoob1MSSNL7P2ENOpzOdc+ZS+iavnZl+l6dnLucwDtTr9VIKDSpnUp6SJ+SKPCzvldFveU2uysvyorwkN2UvDXgCjqj6dfmCfMirU6n0VfHP5PtyzTXXFfCACt6WL8ll1+IxcQ0dn5NvyRsxMduHOVVJOquAD/I1OSscvahBLWqek7uqG+AuZT6QX8gHu1ZJ9yU1n8v0oFek4gD3KPqlfCUyK9+D9KAXPTsUBcivWZBPdkQXd4Be9OwYySjAewo8VRxLbGV60rtNYUAu2sttEb3dofeM3dJ+zPAo4c4q4oaweyZt/1TAMfk7gfYI3tX+TsPBtF++wwYyI3hY25/k3RzsA22J4aj8xYzgVe24wn1U7An5m+wqYo/L5LoIFpiCUwzkRXYcxYX8Vp6WXSCJYVHxTva5AWEaBI5VyYjsqqcKrMirchKkgWNVQw65roJpEkCa+GhIwSyfkiDDcOSQ66MpAMd9MlqxYUhOIUBGecBRawLAUVPV89OGrCrXQOYFB84oj5kf2uAhnVZhIOoAXJHTnFbyjTYA/Ku9sjmS8tOGpEQecNRpcIr7WgBuZiS0R4+Rw/Y1maX8JoDrGSqE4bjmzCMoD8h1AHngplEU3JAK4bwgVwFcSUEXB2dK5QW5DCC/1kdJcKYWkMy/Fbkqm+ekNp21COB7ueac8n9hQUMa8+MAidOwvrAhfRYlMC0B2JR9JvFHimc0kuAUEshAkkOuq2BqmgUrK4fPctk1u+C4huofkWuMIGI454Kt/vjnSYtpe8kPFvMxj5ws8zJ1sor3NSxggvc2ZgQpyoFZNnZYN9U/gIPDBmSfdyU+FzI5eeqxis3bBcOAfMcveGUH9WibnjfCvaIAuYNm5Dfh4AL3X7d60rtNUYAE/JFPy7043fQ40+qpj3bFARK1JfNqjNFk1Z23qHlepge9ItUN0CRw44zJD+WOU2CCPD6pQS1qLiTlmZkkKc58z4zDo4g5lSnMR2sKZvriFRsTg5N8AU1RRp4/+KflcZmFA/D7ZPRLBqIqr8gsGFL9N8Q/dgrQqa704dIAAAAASUVORK5CYII="></image>
+                    <text id="账单发送至" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#333333">
+                        <tspan x="15" y="31">账单发送至</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="号码字符输入时自动分段" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400" line-spacing="32" fill="#4586FF">
+                <tspan x="102" y="410">号码字符输入时自动分段</tspan>
+            </text>
+            <g id="Group-Copy" transform="translate(88.000000, 439.000000)">
+                <rect id="矩形" fill="#F4F6F8" fill-rule="nonzero" x="0" y="0" width="405" height="112"></rect>
+                <text id="输入中状态" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" line-spacing="30" fill="#333333">
+                    <tspan x="158" y="27">输入中状态</tspan>
+                </text>
+                <rect id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" x="15" y="46" width="375" height="51"></rect>
+                <image id="清除" x="354" y="61" width="21" height="21" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABGdBTUEAALGOfPtRkwAAA0lJREFUWAnNmUtPE1EYhgvRLtSVugJ0oymyBn4A6NJo3GhQlybe0J/gQv0JGi8hrhR0ZWJiXCl7gb1U3WiRJoob1MSSNL7P2ENOpzOdc+ZS+iavnZl+l6dnLucwDtTr9VIKDSpnUp6SJ+SKPCzvldFveU2uysvyorwkN2UvDXgCjqj6dfmCfMirU6n0VfHP5PtyzTXXFfCACt6WL8ll1+IxcQ0dn5NvyRsxMduHOVVJOquAD/I1OSscvahBLWqek7uqG+AuZT6QX8gHu1ZJ9yU1n8v0oFek4gD3KPqlfCUyK9+D9KAXPTsUBcivWZBPdkQXd4Be9OwYySjAewo8VRxLbGV60rtNYUAu2sttEb3dofeM3dJ+zPAo4c4q4oaweyZt/1TAMfk7gfYI3tX+TsPBtF++wwYyI3hY25/k3RzsA22J4aj8xYzgVe24wn1U7An5m+wqYo/L5LoIFpiCUwzkRXYcxYX8Vp6WXSCJYVHxTva5AWEaBI5VyYjsqqcKrMirchKkgWNVQw65roJpEkCa+GhIwSyfkiDDcOSQ66MpAMd9MlqxYUhOIUBGecBRawLAUVPV89OGrCrXQOYFB84oj5kf2uAhnVZhIOoAXJHTnFbyjTYA/Ku9sjmS8tOGpEQecNRpcIr7WgBuZiS0R4+Rw/Y1maX8JoDrGSqE4bjmzCMoD8h1AHngplEU3JAK4bwgVwFcSUEXB2dK5QW5DCC/1kdJcKYWkMy/Fbkqm+ekNp21COB7ueac8n9hQUMa8+MAidOwvrAhfRYlMC0B2JR9JvFHimc0kuAUEshAkkOuq2BqmgUrK4fPctk1u+C4huofkWuMIGI454Kt/vjnSYtpe8kPFvMxj5ws8zJ1sor3NSxggvc2ZgQpyoFZNnZYN9U/gIPDBmSfdyU+FzI5eeqxis3bBcOAfMcveGUH9WibnjfCvaIAuYNm5Dfh4AL3X7d60rtNUYAE/JFPy7043fQ40+qpj3bFARK1JfNqjNFk1Z23qHlepge9ItUN0CRw44zJD+WOU2CCPD6pQS1qLiTlmZkkKc58z4zDo4g5lSnMR2sKZvriFRsTg5N8AU1RRp4/+KflcZmFA/D7ZPRLBqIqr8gsGFL9N8Q/dgrQqa704dIAAAAASUVORK5CYII="></image>
+                <text id="银行卡" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#333333">
+                    <tspan x="30" y="77">银行卡</tspan>
+                </text>
+                <text id="6222" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#222222">
+                    <tspan x="96" y="77">6222</tspan>
+                </text>
+                <rect id="矩形" fill="#4586FF" fill-rule="nonzero" x="137" y="62" width="2" height="20" rx="1"></rect>
+            </g>
+            <g id="Group-Copy-2" transform="translate(563.000000, 439.000000)">
+                <rect id="矩形" fill="#F4F6F8" fill-rule="nonzero" x="0" y="0" width="405" height="112"></rect>
+                <text id="输入完整" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" line-spacing="30" fill="#333333">
+                    <tspan x="158" y="27">输入完整</tspan>
+                </text>
+                <rect id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" x="15" y="46" width="375" height="51"></rect>
+                <text id="银行卡" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#333333">
+                    <tspan x="30" y="77">银行卡</tspan>
+                </text>
+                <text id="6222-6210-1142-9955" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#222222">
+                    <tspan x="96" y="77">6222 6210 1142 9955 886</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

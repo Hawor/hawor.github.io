@@ -1,0 +1,35 @@
+
+<svg width="828px" height="280px" viewBox="0 0 828 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="输入框交互规范1" transform="translate(-102.000000, -210.000000)">
+            <text id="前端格式校验／报错时间" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400" line-spacing="32" fill="#4586FF">
+                <tspan x="102" y="230">前端格式校验／报错时间</tspan>
+                <tspan x="366.288" y="230" font-size="20"> </tspan>
+            </text>
+            <text id="报错文案使用规则" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400" line-spacing="32" fill="#4586FF">
+                <tspan x="561" y="230">报错文案使用规则</tspan>
+            </text>
+            <text id="输入框前端校验和报错时间有三种方式，设计" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" line-spacing="30" fill="#333333">
+                <tspan x="102" y="284">输入框前端校验和报错时间有三种方式，设计</tspan>
+                <tspan x="102" y="314">师根据情况选用：</tspan>
+                <tspan x="102" y="348">1、失焦校验</tspan>
+                <tspan x="102" y="382">2、提交表单校验 </tspan>
+                <tspan x="102" y="416">3、实时校验（或者满足一些条件后实时校验）</tspan>
+                <tspan x="102" y="450"></tspan>
+                <tspan x="102" y="484">Tips：空值不报错</tspan>
+            </text>
+            <text id="默认报错文案：-请输入正确的XXX（标签" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" line-spacing="30">
+                <tspan x="561" y="284" fill="#333333">默认报错文案：</tspan>
+                <tspan x="687" y="284" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#333333"></tspan>
+                <tspan x="561" y="318" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#FF4D29">请输入正确的XXX（标签名称）／请准确输入</tspan>
+                <tspan x="561" y="348" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#FF4D29">XXX（标签名称）</tspan>
+                <tspan x="703.398" y="348" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#333333"></tspan>
+                <tspan x="561" y="382" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#333333"></tspan>
+                <tspan x="561" y="416" fill="#333333">特殊报错文案：</tspan>
+                <tspan x="687" y="416" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#333333"></tspan>
+                <tspan x="561" y="450" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#FF4D29">根据具体情况设计，例如支付密码报错“支付密</tspan>
+                <tspan x="561" y="480" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#FF4D29">码错误，您还可以再输入1次”</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
